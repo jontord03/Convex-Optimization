@@ -1,6 +1,6 @@
-Introduction to Convex Optimization
+# Introduction to Convex Optimization
 
-A programming challenge I completed in my Non-Euclidean Geometry class my junior year of high school. 
+## A programming challenge I completed in my Non-Euclidean Geometry class my junior year of high school. 
 
 Topics Covered: 
 1. Convex Functions
@@ -11,7 +11,7 @@ Topics Covered:
 6. Lagrange Multipliers and Duality
 7. Conclusion
 
-###Sources
+### Sources
 
 1. [Convex Optimization Basics](https://youtu.be/oLowhs83aHk?t=148)
 2. [Introduction to Convex Optimization for Machine Learning](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/lectures/optimization/slides.pdf) — **From Ted**!
